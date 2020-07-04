@@ -79,7 +79,8 @@ while x < len(aTagsInLi):
                 'image_url': image_url,
                 'site': site,
                 'category': category,
-                'gender': gender
+                'gender': gender,
+                'brand' : "Under-Armour"
             }
     line_items.append(myjson3)
 

@@ -1,0 +1,116 @@
+1591570131554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofilecINoPi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591570133037	Marionette	INFO	Listening on port 51860
+1591570133214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript error: https://cdn.pbbl.co/i/pp.html, line 5: SecurityError: The operation is insecure.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+1591570175303	Marionette	INFO	Stopped listening on port 51860
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592418885433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofilevnQQ15"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592418886905	Marionette	INFO	Listening on port 65140
+1592418887065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript error: https://cdn.pbbl.co/i/pp.html, line 5: SecurityError: The operation is insecure.
+1592418979227	Marionette	INFO	Stopped listening on port 65140
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592854810885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofileurOAbZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592854813927	Marionette	INFO	Listening on port 50312
+1592854814103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript error: https://cdn.pbbl.co/i/pp.html, line 5: SecurityError: The operation is insecure.
+1592854869784	Marionette	INFO	Stopped listening on port 50312
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592854931432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofilecODmXu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592854933435	Marionette	INFO	Listening on port 50618
+1592854933549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+1592855134693	Marionette	INFO	Stopped listening on port 50618
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593132366173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofileqzr7Mj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593132367705	Marionette	INFO	Listening on port 60700
+1593132367781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript error: https://cdn.pbbl.co/i/pp.html, line 5: SecurityError: The operation is insecure.
+1593132450780	Marionette	INFO	Stopped listening on port 60700
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593210757691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofile0ECG46"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593210760396	Marionette	INFO	Listening on port 49504
+1593210760471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript error: https://cdn.pbbl.co/i/pp.html, line 5: SecurityError: The operation is insecure.
+1593210828079	Marionette	INFO	Stopped listening on port 49504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593548831408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofileeg1otF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593548836800	Marionette	INFO	Listening on port 51809
+1593548837010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.pbbl.co/i/pp.html, line 5: SecurityError: The operation is insecure.
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+1593549623659	Marionette	INFO	Stopped listening on port 51809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593899568317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofileFTYLEe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593899571368	Marionette	INFO	Listening on port 55738
+1593899571613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript error: https://cdn.pbbl.co/i/pp.html, line 5: SecurityError: The operation is insecure.
+1593899677564	Marionette	INFO	Stopped listening on port 55738
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\SAMIR~1.JAI\\AppData\\Local\\Temp\\rust_mozprofileuzcAg6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593899631984	Marionette	INFO	Listening on port 56006
+1593899632411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript warning: https://content.shoprunner.com/UARM.js, line 4: unreachable code after return statement
+JavaScript error: https://cdn.pbbl.co/i/pp.html, line 5: SecurityError: The operation is insecure.
+1593899681229	Marionette	INFO	Stopped listening on port 56006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
