@@ -34,8 +34,8 @@ client = MongoClient("mongodb+srv://rjain9:Ilikepie16%21@cluster0-wgm3y.mongodb.
 db = client["Shoes"]
 mycol = db["underarmour"]
 
-aTagsInLi = driver.find_elements_by_xpath("//li[contains(@class,'tile tile')]")
-imgTags = driver.find_elements_by_xpath("//img[@class='product-img']")
+aTagsInLi = driver.find_elements_by_xpath("//section[contains(@class,'b-products_grid-tile')]")
+imgTags = driver.find_elements_by_xpath("//img[@class='b-tile-image b-tile-main_image js-tile-carousel_image']")
 line_items=[]
 
 x=0
@@ -49,7 +49,7 @@ while x < len(aTagsInLi):
     aTag = a.find_element_by_tag_name('a')
 
     #get name of shoe
-    name = a.find_element_by_class_name('title').text
+    name = a.find_element_by_class_name('b-tile-name').text
     #get site link
     site = aTag.get_attribute('href')
     #get img_url
